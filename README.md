@@ -34,7 +34,7 @@ git clone https://github.com/Sh-Jil/gdriveuploader
 ```
 - Change Directory
 ```sh 
-cd google-drive-telegram-bot
+cd gdriveuploader
 ```
 - Install requirements with pip3
 ```sh 
