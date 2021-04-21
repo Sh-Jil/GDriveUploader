@@ -30,11 +30,11 @@ apt install -y git python3 ffmpeg
 ```
 - Clone this git repository.
 ```sh 
-git clone https://github.com/Sh-Jil/gdriveuploader
+git clone https://github.com/Sh-Jil/GDriveUploader
 ```
 - Change Directory
 ```sh 
-cd gdriveuploader
+cd GDriveUploader
 ```
 - Install requirements with pip3
 ```sh 
